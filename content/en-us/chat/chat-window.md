@@ -12,7 +12,7 @@ The overall chat window consists of the **chat window**, an **input bar**, and o
 <img src="../assets/players/in-experience-text-chat/Chat-Window-Components.jpg" width="800" alt="Core components of the text chat window." />
 
 The channel tabs are disabled by default and each component can be toggled on and off in Studio or through scripting:
-
+going absolutely wild with this one
 <Tabs>
 <TabItem label="Studio">
 In the [Explorer](../studio/explorer.md) window, expand the `Class.TextChatService` branch and select `Class.ChatWindowConfiguration`, `Class.ChatInputBarConfiguration`, or `Class.ChannelTabsConfiguration`. Then enable or disable the component in the [Properties](../studio/properties.md) window.
