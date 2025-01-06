@@ -14,7 +14,7 @@ This page includes a high-level overview of how messaging works and instructions
 The following sections summarize the primary classes and instances that you can use to customize the chat system.
 
 ### Top-Level Configuration
-
+more nonsense changes
 - `Class.TextChatService` - This singleton class is responsible for managing the overall chat system, including handling chat message filtering, moderation, and user permissions. Use properties like `Class.TextChatService.CreateDefaultTextChannels` and `Class.TextChatService.CreateDefaultCommands` to enable or disable default chat channels and commands.
 
 ### Default UI Configuration
